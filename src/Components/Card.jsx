@@ -29,7 +29,7 @@ const Card = ({ data }) => {
                 <div className='flex gap-4'>
                     <p className='flex items-center gap-1'><SlFire />{views} views</p>
 
-                    <p className='flex items-center gap-1'> <IoTimeOutline />{readed_time}</p>
+                    <p className='md:flex items-center gap-1 hidden'> <IoTimeOutline />{readed_time}</p>
                 </div>
             </div>
         </div>
