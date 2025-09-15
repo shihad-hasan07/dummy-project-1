@@ -24,7 +24,7 @@ const Home = () => {
                     }
                 </div>
 
-                <div className="flex drop-shadow-xl flex-col px-5 py-8 h-auto items-center bg-white rounded-2xl lg:col-span-4">
+                <div className="flex drop-shadow-xl flex-col px-5 py-8 h-[900px] items-center bg-white rounded-2xl lg:col-span-4">
                     <div>
                         <img src="/public/person.webp" alt="" className="rounded-full border-4 border-gray-200" />
                     </div>
