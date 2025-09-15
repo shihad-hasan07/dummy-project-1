@@ -9,7 +9,7 @@ const Outline = () => {
                 <Header></Header>
             </div>
 
-            <div>
+            <div className="bg-[#f5f5fa] pt-8">
                 <Outlet></Outlet>
             </div>
 
