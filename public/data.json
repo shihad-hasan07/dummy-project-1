@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "title": "The Benefits Of Traveling With A Second Language",
+    "author": "Jessica Smith",
+    "img": "https://c.pxhere.com/images/d7/3b/2023f089c1125af2616970ec65dd-1446199.jpg!d",
+    "details": "Traveling with a second language opens up unique opportunities for cultural immersion and personal growth. It allows you to connect with locals, understand traditions, and navigate new places with confidence. Beyond communication, it fosters empathy and a deeper appreciation for different ways of life.",
+    "hashtags": ["Lifestyle", "Trending", "Travel"],
+    "views": 515,
+    "comments": 6,
+    "readed_time": "3 Min Read"
+  },
+  {
+    "id": 2,
+    "title": "Top 10 Healthy Morning Habits To Boost Your Day",
+    "author": "Michael Johnson",
+    "img": "https://c.pxhere.com/photos/64/89/tree_crown_branches_aesthetic_growth_habit_growth_sky_shadow-995588.jpg!s1",
+    "details": "A productive day begins with the right morning routine. Drinking water, practicing mindfulness, and eating a balanced breakfast are just a few ways to energize your body and mind. Incorporating light exercise and journaling can also help you stay focused and motivated throughout the day.",
+    "hashtags": ["Health", "Wellness", "Lifestyle"],
+    "views": 890,
+    "comments": 12,
+    "readed_time": "5 Min Read"
+  },
+  {
+    "id": 3,
+    "title": "How Technology Is Changing Modern Education",
+    "author": "Sophia Lee",
+    "img": "https://c.pxhere.com/photos/d6/48/keyboard_mouse_work_computer_working-245.jpg!s1",
+    "details": "Education today looks vastly different thanks to technology. Virtual classrooms, online courses, and AI tutors are making learning accessible from anywhere in the world. This digital shift is breaking down barriers to education, creating opportunities for students in remote and underserved communities.",
+    "hashtags": ["Education", "Tech"],
+    "views": 1320,
+    "comments": 24,
+    "readed_time": "6 Min Read"
+  },
+  {
+    "id": 4,
+    "title": "Exploring The Hidden Food Culture Of Italy",
+    "author": "David Martinez",
+    "img": "https://c.pxhere.com/photos/a9/4e/colosseum_rome_italy_roman_architecture_landmark_italian_tourism-744892.jpg!s1",
+    "details": "Italy’s food culture goes far beyond pizza and pasta. Each region offers unique dishes rooted in history and local ingredients. From the seafood-rich dishes of Sicily to the hearty risottos of northern Italy, exploring these hidden flavors reveals the true depth of Italian cuisine.",
+    "hashtags": ["Food", "Travel", "Culture"],
+    "views": 740,
+    "comments": 8,
+    "readed_time": "4 Min Read"
+  },
+  {
+    "id": 5,
+    "title": "The Rise Of Remote Work And Digital Nomads",
+    "author": "Emily Carter",
+    "img": "https://c.pxhere.com/photos/dc/98/coffee_cafe_tourist_food_restaurant_drink_espresso_shop-1361645.jpg!s1",
+    "details": "Remote work has transformed how we live and work. With flexible schedules and the ability to work from anywhere, digital nomads are redefining modern careers. While this lifestyle offers freedom, it also presents challenges like maintaining productivity and finding work-life balance.",
+    "hashtags": ["Work", "Lifestyle", "Trending"],
+    "views": 980,
+    "comments": 15,
+    "readed_time": "5 Min Read"
+  },
+  {
+    "id": 6,
+    "title": "Mindful Eating: A Path To Better Health",
+    "author": "Daniel Green",
+    "img": "https://c.pxhere.com/photos/e3/32/watermelon_summer_little_girl_eating_watermelon_food_fruit_fresh_red_healthy-872151.jpg!s1",
+    "details": "Mindful eating is about paying attention to what you eat and how you feel while eating. It encourages slowing down, savoring flavors, and being aware of portion sizes. This practice not only improves digestion but also fosters a healthier relationship with food.",
+    "hashtags": ["Health", "Food", "Wellness"],
+    "views": 670,
+    "comments": 9,
+    "readed_time": "4 Min Read"
+  },
+  {
+    "id": 7,
+    "title": "The Future Of Renewable Energy",
+    "author": "Olivia Turner",
+    "img": "https://c.pxhere.com/photos/a7/3d/alternative_cell_clean_ecological_ecology_electricity_energy_environment-1153251.jpg!s1",
+    "details": "As the world faces climate change, renewable energy is becoming the backbone of sustainable development. Solar, wind, and hydropower technologies are advancing rapidly, offering cleaner alternatives to fossil fuels. The shift promises a greener future but requires global cooperation and innovation.",
+    "hashtags": ["Environment", "Tech", "Sustainability"],
+    "views": 1560,
+    "comments": 30,
+    "readed_time": "7 Min Read"
+  },
+  {
+    "id": 8,
+    "title": "The Art Of Minimalist Living",
+    "author": "Chris Evans",
+    "img": "https://c.pxhere.com/photos/7e/36/man_fishermen_nature_village-1089678.jpg!s1",
+    "details": "Minimalist living is not about giving up everything but about focusing on what truly matters. By decluttering spaces and simplifying routines, people find more peace, clarity, and financial freedom. This lifestyle promotes intentional living and reduces unnecessary stress.",
+    "hashtags": ["Lifestyle", "Minimalism", "Trending"],
+    "views": 845,
+    "comments": 11,
+    "readed_time": "5 Min Read"
+  },
+  {
+    "id": 9,
+    "title": "How Music Impacts Mental Health",
+    "author": "Laura Wilson",
+    "img": "https://c.pxhere.com/photos/0f/3f/musician_country_song_banjo_ukulele_guitar_acoustic_guitar_musical_instrument_instrument-965005.jpg!s1",
+    "details": "Music has the power to heal. Studies show that listening to calming tunes can reduce anxiety, improve mood, and even enhance memory. Beyond entertainment, music therapy is increasingly being used to support patients with depression, PTSD, and cognitive challenges.",
+    "hashtags": ["Music", "Health", "Wellness"],
+    "views": 1200,
+    "comments": 18,
+    "readed_time": "6 Min Read"
+  },
+  {
+    "id": 10,
+    "title": "The Evolution Of Artificial Intelligence",
+    "author": "Kevin Brooks",
+    "img": "https://c.pxhere.com/images/41/31/5bc7620fc4beeaaf17f9ae206510-1676166.jpg!s1",
+    "details": "Artificial intelligence has evolved from simple algorithms to advanced systems that can think, learn, and adapt. AI is revolutionizing industries like healthcare, finance, and transportation. While it offers immense benefits, it also raises ethical questions about privacy, jobs, and decision-making.",
+    "hashtags": ["Tech", "AI", "Future"],
+    "views": 2100,
+    "comments": 45,
+    "readed_time": "8 Min Read"
+  },
+  {
+    "id": 11,
+    "title": "Sustainable Fashion: A Growing Movement",
+    "author": "Rachel Adams",
+    "img": "https://c.pxhere.com/photos/9b/29/girl_person_woman_sunglass_horizon-3329.jpg!s1",
+    "details": "Fast fashion is being challenged by a new wave of sustainable clothing. Eco-friendly fabrics, ethical production, and second-hand fashion are reshaping consumer choices. This movement not only benefits the planet but also empowers artisans and communities worldwide.",
+    "hashtags": ["Fashion", "Sustainability", "Trending"],
+    "views": 950,
+    "comments": 14,
+    "readed_time": "5 Min Read"
+  },
+  {
+    "id": 12,
+    "title": "Why Reading Fiction Improves Creativity",
+    "author": "Anthony Clark",
+    "img": "https://c.pxhere.com/photos/f5/6c/light_bulb_lightbulb_light_bulb_energy_electricity_light_bulb_idea_glow-548225.jpg!s1",
+    "details": "Reading fiction is more than entertainment; it strengthens imagination and creativity. Immersing yourself in stories enhances empathy and problem-solving skills. It allows readers to explore new perspectives and apply innovative thinking in real-life situations.",
+    "hashtags": ["Books", "Creativity", "Lifestyle"],
+    "views": 725,
+    "comments": 10,
+    "readed_time": "4 Min Read"
+  },
+  {
+    "id": 13,
+    "title": "The Psychology Of Happiness",
+    "author": "Samantha White",
+    "img": "https://c.pxhere.com/photos/95/c5/audience_concert_music_entertainment_people_crowd_performance_event-868620.jpg!s1",
+    "details": "Happiness is not just an emotion but a mindset influenced by habits, relationships, and gratitude. Psychology shows that acts of kindness, regular exercise, and strong social connections are key to long-term well-being. Happiness thrives when purpose and passion align.",
+    "hashtags": ["Psychology", "Wellness", "Health"],
+    "views": 1340,
+    "comments": 22,
+    "readed_time": "6 Min Read"
+  },
+  {
+    "id": 14,
+    "title": "The Importance Of Financial Literacy",
+    "author": "James Parker",
+    "img": "https://c.pxhere.com/photos/b6/20/coins_currency_investment_insurance_cash_banking_financial_business-572367.jpg!s1",
+    "details": "Financial literacy is a vital life skill that empowers people to manage money wisely. Understanding budgeting, saving, and investing helps avoid debt and build long-term wealth. Educating younger generations about finances is crucial for economic stability.",
+    "hashtags": ["Finance", "Education", "Trending"],
+    "views": 890,
+    "comments": 13,
+    "readed_time": "5 Min Read"
+  },
+  {
+    "id": 15,
+    "title": "Why Traveling Solo Can Be Life-Changing",
+    "author": "Hannah Kim",
+    "img": "https://c.pxhere.com/photos/ba/fe/tourist_travelling_travel_person_woman-229.jpg!s1",
+    "details": "Solo travel offers independence and self-discovery. It encourages stepping out of comfort zones, building confidence, and embracing new cultures without relying on companions. Many solo travelers find that these journeys become the most transformative experiences of their lives.",
+    "hashtags": ["Travel", "Lifestyle", "Inspiration"],
+    "views": 1600,
+    "comments": 28,
+    "readed_time": "7 Min Read"
+  }
+]
